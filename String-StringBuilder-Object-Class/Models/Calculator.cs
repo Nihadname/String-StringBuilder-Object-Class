@@ -27,7 +27,7 @@ namespace String_StringBuilder_Object_Class.Models
                 case '/':
                     if (num2 == 0)
                     {
-                        Console.WriteLine("2ye bolmek duzgun deyil");
+                        Console.WriteLine("0 a bolmek duzgun deyil");
                     }
                     else
                     {
